@@ -1,0 +1,9 @@
+servers:
+  - name: example1
+    host: example1.com
+    username: root
+    password: password
+  - name: example2
+    host: example2.com
+    username: root
+    password: password
